@@ -10,3 +10,7 @@ I created this repo as a summary for data structures.
 - deleteFrom: remove the data form the indicated position, accept 1 argument `index`
 - isEmpty: indicate if the List is Empty
 - getSize: return the size of the List.
+
+# Hash Table
+
+- `An Array to hold values, and a hash function that transform a string key into a numerical index`
