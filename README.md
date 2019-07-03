@@ -14,3 +14,10 @@ I created this repo as a summary for data structures.
 # Hash Table
 
 - `An Array to hold values, and a hash function that transform a string key into a numerical index`
+
+# Reacto
+
+- Subset Exercise with 3 examples:
+  [ ] For loop solution
+  [ ] Index
+  [ ] Memo
