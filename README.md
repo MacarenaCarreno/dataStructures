@@ -18,6 +18,6 @@ I created this repo as a summary for data structures.
 # Reacto
 
 - Subset Exercise with 3 examples:
-  [] For loop solution
-  [] Index
-  [] Memo
+- [x] For loop solution
+- [x] Index
+- [x] Memo
