@@ -10,12 +10,12 @@ Maca
 
 # Linked List
 
-- add: Add a new Node accept 1 argument `data`
-- insertAt: insert data in an indicated index, accept 2 arguments `data` && `index`
-- delete: remove the data from the List. accept 1 argument `data`
-- deleteFrom: remove the data form the indicated position, accept 1 argument `index`
-- isEmpty: indicate if the List is Empty
-- getSize: return the size of the List.
+- [x] add: Add a new Node accept 1 argument `data`
+- [x] insertAt: insert data in an indicated index, accept 2 arguments `data` && `index`
+- [x] delete: remove the data from the List. accept 1 argument `data`
+- [x] deleteFrom: remove the data form the indicated position, accept 1 argument `index`
+- [x] isEmpty: indicate if the List is Empty
+- [x] getSize: return the size of the List.
 
 # Hash Table
 
@@ -23,14 +23,14 @@ Maca
 
 # Reacto
 
-- Subset Exercise with 3 examples:
+- `Subset Exercise with 3 examples:`
 - [x] For loop solution
 - [x] Index
 - [x] Memo
 
 # Cracking the Coding Interview
 
-- Arrays and Strings
+- `Arrays and Strings`
 - [x] 1.1 Is Unique
 - [ ] 1.2 Check Permutation
 - [ ] 1.3 URLLify
