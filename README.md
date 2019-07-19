@@ -21,6 +21,9 @@ Maca
 
 - `An Array to hold values, and a hash function that transform a string key into a numerical index`
 
+# Binary Search Tree
+- 
+
 # Reacto
 
 - `Subset Exercise with 3 examples:`
