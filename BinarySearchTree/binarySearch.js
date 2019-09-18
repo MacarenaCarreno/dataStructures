@@ -12,9 +12,10 @@ const binarySearch = (arr, num) => {
       min = mid + 1;
     }
   }
-
   return -1;
 };
+
+
 console.log(binarySearch([1, 3, 5, 7, 8, 10], 7));
 console.log(binarySearch([1, 3, 5, 7, 8, 10], 10));
 console.log(binarySearch([1, 3, 5, 7, 8, 10], 27));
