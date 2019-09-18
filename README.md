@@ -28,7 +28,7 @@ Maca
 # Sorts
 
 - [x] QuickSort: Divide and Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. Time: Ω(n log(n))
-- [ ] Merge Sort: Divide and Conquer algorithm. The merge() function is used for merging two halves. Time: Ω(n log(n))
+- [x] Merge Sort: Divide and Conquer algorithm. The merge() function is used for merging two halves. Time: Ω(n log(n))
 
 # Reacto
 

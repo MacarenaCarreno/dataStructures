@@ -27,4 +27,4 @@ const orderSearch = (root) => {
 }
 
 
-console.log(orderSearch( 1)
+console.log(orderSearch(1));
