@@ -10,9 +10,9 @@ Output: 'Mr%20John%20Smith'
 
 const urlLify = function(url, len) {
   let response = url.split(' ');
-  
+
   while (len > 0) {
-    if ((response[len - 1] === '')) {
+    if (response[len - 1] === '') {
       response.pop();
       len--;
     } else len = 0;
@@ -21,5 +21,4 @@ const urlLify = function(url, len) {
   return response.join('%20');
 };
 
-console.log(urlLify('Mr John Smith', 13));
-console.log('Mr John Smith'.length)
+console.log(urlLify('Mr John Smith      ', 13));
