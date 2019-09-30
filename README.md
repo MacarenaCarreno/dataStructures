@@ -1,9 +1,11 @@
 # Summary
 
 I created this repo as a summary for data structures and exercises that I have been practicing
-for technical interviews preparation.
+for technical interviews preparation, all in JavaScript.
 
 If you have any comments or another point of view feel free to contact me!.
+
+Check my portfolio: macarenacg.com
 
 Best,
 Maca
@@ -23,7 +25,7 @@ Maca
 
 # Tree
 
-- [ ] Binary Search Tree
+- [x] Binary Search Tree
 
 # Sorts
 
@@ -37,13 +39,13 @@ Maca
 - [x] Index
 - [x] Memo
 
-# Cracking the Coding Interview
+# Cracking the Coding Interview - 4/189 Programing Questions and Solutions - 6th Edition
 
 - `Arrays and Strings`
 - [x] 1.1 Is Unique
 - [x] 1.2 Check Permutation
 - [x] 1.3 URLLify
-- [ ] 1.4 Palindrome Permutation
+- [x] 1.4 Palindrome Permutation
 - [ ] 1.5 One Away
 - [ ] 1.6 String Compression
 - [ ] 1.7 Rotate Matrix
