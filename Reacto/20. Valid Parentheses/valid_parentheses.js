@@ -1,6 +1,13 @@
 var isValid = function(s) {
   let last = s.length - 1;
-  if (s[0] === ')' || s[0] === '}' || s[0] === ']') return false;
+  if (
+    s[0] === ')' ||
+    s[0] === '}' ||
+    s[0] === ']' ||
+    s === undefined ||
+    s === 0
+  )
+    return false;
   if (s[last] === '(' || s[last] === '{' || s[last] === '[') return false;
 
   let stack = [];
@@ -19,7 +26,6 @@ var isValid = function(s) {
         top_element = '#';
       } else {
         top_element = stack.pop();
-        
       }
 
       if (top_element !== list[s[i]]) return false;
