@@ -39,7 +39,7 @@ Maca
 - [x] Index
 - [x] Memo
 
-# Cracking the Coding Interview - 4/189 Programing Questions and Solutions - 6th Edition
+# Cracking the Coding Interview - 5/189 Programing Questions and Solutions - 6th Edition
 
 - `Arrays and Strings`
 - [x] 1.1 Is Unique
