@@ -46,7 +46,7 @@ Maca
 - [x] 1.2 Check Permutation
 - [x] 1.3 URLLify
 - [x] 1.4 Palindrome Permutation
-- [ ] 1.5 One Away
+- [x] 1.5 One Away
 - [ ] 1.6 String Compression
 - [ ] 1.7 Rotate Matrix
 - [ ] 1.8 Zero Matrix
